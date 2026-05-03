@@ -1,6 +1,3 @@
-# Somalia-WTO-TFA-Assessment
-Somalia's Assessment Results on WTO Trade Facilitation Agreement Assessments conducted by myself
-
 
 # Somalia WTO Trade Facilitation Agreement — National Assessment
 **Client: UNCTAD | Duration: 1 month | Year: 2025**
