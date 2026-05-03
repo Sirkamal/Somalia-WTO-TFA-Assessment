@@ -57,5 +57,7 @@ recommendations.
 
 ## About Me
 Kamal Mohamed — Economic Analyst, National Economic Council Somalia
+
 GitHub: github.com/Sirkamal
+
 LinkedIn: linkedin.com/in/sirkamal
